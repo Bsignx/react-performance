@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img width="120" alt="Ignite" src="https://res.cloudinary.com/dqcqifjms/image/upload/v1615216700/felipejung/ignite.png" />
     <br>
     Ignite - React - Performance
 </h1>
@@ -12,9 +11,9 @@
 
 ```bash
 # Clone the frontend
-git clone https://github.com/felipe-jm/ignite-react-performance.git
+git clone https://github.com/Bsignx/react-performance.git
 
-cd ignite-react-performance
+cd react-performance
 
 # Install dependencies
 yarn
@@ -25,8 +24,8 @@ yarn dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/ignite-react-performance/blob/master/LICENSE) for more information.
+This project is under the MIT license. 
 
 ---
 
-Made with much :heart: and :muscle: by Felipe Jung :blush: <a href="https://www.linkedin.com/in/felipe-jung/">Talk to me!</a>
+Made with much :heart: and :muscle: by Bruno Mariano :blush: <a href="https://www.linkedin.com/in/dev-bruno-mariano/">Talk to me!</a>
